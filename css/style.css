@@ -1,5 +1,4 @@
 
-
 /* Import fonts from fonts.css file */ 
 @import url(./fonts.css);
 
@@ -41,7 +40,6 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
-
 
 /* ==============================End Navigation ======================================================================*/ 
 
@@ -160,6 +158,5 @@ footer.footer-area .social a > i{
 footer.footer-area .social a:hover > i{
     color: var(--primary-color);
 }
-
 
 /* ================================================ End Footer =========================================================================*/ 
