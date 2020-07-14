@@ -1,14 +1,14 @@
 
 
 /* Import fonts from fonts.css file */ 
-@import url(./fonts.css);
+@import url(fonts.css);
 
 
 /* css variables */ 
-@import url(./partials/_variables.css);
+@import url(partials/_variables.css);
 
 /* import global styling */ 
-@import url(./partials/_global.css);
+@import url(partials/_global.css);
 
 
 /* =========================================Start Navigation =================================================================*/ 
@@ -48,7 +48,7 @@
 /* ============================== Banner Area =========================================================================*/ 
 
 .site-main .site-banner {
-    background: url(../img/body-bg.png) no-repeat 0% 50%;
+    background: url(img/body-bg.png) no-repeat 0% 50%;
 }
 
 .site-main .site-banner .site-title h3{
@@ -104,7 +104,7 @@
 /* ===========================================Subscribe me ==================================================================*/ 
 
 .site-main .subscribe-us-area .subscribe{
-    background: url(../img/subscribe-bg.png) no-repeat;
+    background: url(img/subscribe-bg.png) no-repeat;
     padding: 10rem 0rem;
     margin: 3rem auto;
 }
@@ -144,7 +144,7 @@
 
 footer.footer-area{
     padding: 5rem 0;
-    background: url(../img/footer-bg.png) no-repeat;
+    background: url(img/footer-bg.png) no-repeat;
 }
 
 footer.footer-area .social h5{
